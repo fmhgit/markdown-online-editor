@@ -12,7 +12,7 @@
       <nav class="button-group">
         <a
           v-if="!isMobile"
-          href="https://wechat.jeffjade.com/"
+          href="https://md.fanjianhui.com:18443/"
           class="header-link"
           target="_blank"
           rel="noopener"
@@ -21,20 +21,9 @@
             <icon class="header-icon" name="wechat" />
           </span>
         </a>
-        <a href="https://www.niceshare.site/" class="header-link" target="_blank" rel="noopener">
-          <span class="hint--bottom" aria-label="逍遥自在轩">
+        <a href="https://91.seenwon.com/" class="header-link" target="_blank" rel="noopener">
+          <span class="hint--bottom" aria-label="SeenWON">
             <icon class="header-icon" name="homepage" />
-          </span>
-        </a>
-        <a
-          v-if="!isMobile"
-          href="https://x.com/MarshalXuan"
-          class="header-link"
-          target="_blank"
-          rel="noopener"
-        >
-          <span class="hint--bottom" aria-label="X - 轩帅">
-            <icon class="header-icon" name="x" />
           </span>
         </a>
         <a
